@@ -6,7 +6,7 @@
   
 
 - 📫 How to reach me **geeksaroj@gmail.com**
-- 👨‍💻 Wanna check out my portfolio :[https://portfolio-saroj.vercel.app/](https://portfolio-saroj.vercel.app/)
+- 👨‍💻 Wanna check out my portfolio :[https://sarojsah.info.np/](https://sarojsah.info.np/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
