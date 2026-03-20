@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Saroj Kumar Sah</h1>
+<h1 align="center">Hi, I'm Saroj Sah</h1>
 <h3 align="center">Software Engineer | Full Stack Developer from Nepal</h3>
 
 <p align="center">
